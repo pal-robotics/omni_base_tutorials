@@ -25,3 +25,4 @@
 - git: {local-name: robot_pose,                   uri: 'https://github.com/pal-robotics/robot_pose', version: 'kinetic-devel'}
 - git: {local-name: humanoid_msgs,                uri: 'https://github.com/ahornung/humanoid_msgs.git', version: 'master'}
 - git: {local-name: navigation_layers,            uri: 'https://github.com/DLu/navigation_layers.git', version: 'melodic'}
+- git: {local-name: rviz_plugin_covariance,       uri: 'https://github.com/pal-robotics/rviz_plugin_covariance.git', version: 'kinetic-devel'}
